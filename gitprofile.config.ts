@@ -51,9 +51,9 @@ const CONFIG = {
       ],
     },
   },
-  seo: { title: 'Portfolio of Ariful Alam', description: '', imageURL: '' },
+  seo: { title: 'Portfolio of Laura Legro', description: '', imageURL: '' },
   social: {
-    linkedin: 'ariful-alam',
+    linkedin: 'https://www.linkedin.com/in/laura-l-a682a592/',
     x: 'arif_szn',
     mastodon: 'arifszn@mastodon.social',
     researchGate: '',
